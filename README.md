@@ -1,2 +1,2 @@
 # Toastmessage
-https://longsmile1412.github.io/ToastMessage/
+https://longsmile1412.github.io/Toast-Message/
